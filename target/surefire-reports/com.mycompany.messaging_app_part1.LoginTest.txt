@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mycompany.messaging_app_part1.LoginTest
--------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.112 s -- in com.mycompany.messaging_app_part1.LoginTest
